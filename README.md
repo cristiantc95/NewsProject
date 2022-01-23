@@ -4,7 +4,7 @@ This is the final project from my Web Development course that I teach @ IT Schoo
 
 ## Demo
 
-The project is deployed at [itschool-news.netlify.app](https://itschool-news.netlify.app).
+--
 
 ## Local usage
 
